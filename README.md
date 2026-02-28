@@ -18,3 +18,7 @@ Elbow	       Pin 11
 ![arm2](Photos/arm2.jpeg)
 
 https://github.com/user-attachments/assets/c09e99f6-445a-4035-9639-88cb72344a95
+
+## A sad story
+
+I'm really dissapointed in myself for not finishing this. It doesn t really work and I just can t figure out why the Inverse Kinematics sometimes works, and sometimes not. If you find the problem in my code please make a pull request or an issue to let me know. I just can t try anymore to figure it out, but maybe i ll come back to it sometime.
